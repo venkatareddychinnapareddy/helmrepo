@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  onlinebookstore:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-05-24T08:03:12.058390733Z"
+    description: A Helm chart for java web application Kubernetes
+    digest: 7145a1eafd00fe3e304a23c600ed163602bee8799ce66ec0d016ca8036b1c7af
+    name: onlinebookstore
+    type: application
+    urls:
+    - https://venkatareddychinnapareddy.github.io/helmrepo/onlinebookstore-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-05-24T08:03:12.057461472Z"
